@@ -1,0 +1,17 @@
+.seccion {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: white;
+  scroll-snap-align: start;
+  overflow: hidden;
+}
+
+#seccion1 { background-color: #3498db; }
+#seccion2 { background-color: #e74c3c; }
+#seccion3 { background-color: #2ecc71; }
+#seccion4 { background-color: #9b59b6; }
+#seccion5 { background-color: #d7de0f; }

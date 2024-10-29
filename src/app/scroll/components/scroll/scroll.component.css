@@ -1,0 +1,11 @@
+:host {
+  display: block;
+  height: 100vh;
+  overflow: hidden; /* Oculta las barras de desplazamiento */
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  scroll-behavior: smooth;
+}
